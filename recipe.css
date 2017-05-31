@@ -1,0 +1,26 @@
+
+body{
+     text-align:center;
+     background: black ;
+     color:aqua;
+        
+         
+}
+
+img{
+    border : 5px black solid;
+    border-radius: 40px; 
+        
+}
+
+ul{
+    padding-left: 320px ;
+    padding-right:320px ;
+    list-style: disc;
+     
+}
+ol{
+   padding-left: 320px;
+   padding-right: 320px;
+   list-style: lower-roman;
+    
